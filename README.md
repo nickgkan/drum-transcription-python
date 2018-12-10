@@ -1,6 +1,6 @@
 # Python Utilities for Drums Transcription
 
-This repository offers some tools to facilitate music transcription, especially drums transcription. Since most of the sites for song tabs are guitar-oriented, drums tabs (if available) are often poorly written and/or unreadable. This project looks to transform drums tabs to a standard format that maximizes readability by tackling the issues below:
+This repository offers some tools to facilitate music transcription, especially drums transcription. Since most of the sites for song tabs are guitar-oriented, drums tabs (if available) are often poorly written and/or unreadable. This project looks to transform drums tabs to a standard format that maximizes readability by tackling the following issues:
 
 - [x] Removal of unnecessary rests
 - [x] Standardization of score format
